@@ -14,8 +14,8 @@ yarn-error.log*
 .env.*.local
 
 # TypeScript output
-dist/
-build/
+/dist
+/build
 *.tsbuildinfo
 
 # OS-specific files
